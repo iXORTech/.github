@@ -12,7 +12,7 @@ Minecraft Related Applications & Plugin Development Team, Founded by [@Cubik6553
 
 ### 📫 Contact Us
 
-If you want to contact us, the most efficient way is to send emails to us. We will check our inbox every 4 to 5 hours, so you should get our response pretty quickly unless the mail system moves your message to the junk box, which we usually will clear directly after a quick check every week (so it's possible that I can't even see your email before it got deleted).
+If you want to contact us, the most efficient way is to send emails to us. We will check our inbox every 4 to 5 hours, so you should get our response pretty quickly unless the mail system moves your message to the junk box, which we usually will clear directly after a quick check every week (so it's possible that we can't even see your email before it got deleted).
 
 [![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-admin%40ixor.tech-informational?style=for-the-badge)](mailto:admin@ixor.tech)
 
