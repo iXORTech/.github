@@ -28,6 +28,11 @@ Coming soon!
 
 Thanks to [`wngamebox`](https://wngamebox.cn), [@JohnsonRan](https://github.com/JohnsonRan) and `🍉 Network` and for providing us network and computing resources
 
+**A HUGE thanks to my sponsors down below! You guys will help us to go even further!** 
+
+### GitHub Sponsors:
+- JiJi ([@mmdjiji](https://github.com/mmdjiji))
+
 You can also sponsor us on our [`afdian`](https://afdian.net/@ixortech) or [`GitHub (of @Cubik65536, our founder)`](https://github.com/sponsors/Cubik65536) so that your name will be also on the list!
 
 <p>
