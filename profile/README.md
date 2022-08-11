@@ -20,10 +20,6 @@ If you want to contact us, the most efficient way is to send emails to us. We wi
 
 Coming soon!
 
-### ℹ️ Credits
-[![anuraghazra/github-readme-stats](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Ileriayo/markdown-badges](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=Ileriayo&repo=markdown-badges&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
-
 ## 🎉 Thanks:
 
 Thanks to [`wngamebox`](https://wngamebox.cn), [@JohnsonRan](https://github.com/JohnsonRan) and `🍉 Network` and for providing us network and computing resources
