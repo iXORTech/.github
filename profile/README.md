@@ -29,7 +29,7 @@ Thanks to [`wngamebox`](https://wngamebox.cn), [@JohnsonRan](https://github.com/
 ### GitHub Sponsors:
 - JiJi ([@mmdjiji](https://github.com/mmdjiji))
 
-You can also sponsor us on our [`afdian`](https://afdian.net/@ixortech) or [`GitHub (of @Cubik65536, our founder)`](https://github.com/sponsors/Cubik65536) so that your name will be also on the list!
+You can also sponsor us on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`afdian`](https://afdian.net/@ixortech) (of @Cubik65536, our founder) so that your name will be also on the list!
 
 <p>
   <a href="https://github.com/sponsors/Cubik65536"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="40" /></a>
