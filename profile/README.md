@@ -27,7 +27,6 @@ Thanks to [`wngamebox`](https://wngamebox.cn), [@JohnsonRan](https://github.com/
 **A HUGE thanks to my sponsors down below! You guys will help us to go even further!** 
 
 ### GitHub Sponsors:
-- JiJi ([@mmdjiji](https://github.com/mmdjiji))
 
 You can also sponsor us on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`afdian`](https://afdian.net/@ixortech) (of @Cubik65536, our founder) so that your name will be also on the list!
 
