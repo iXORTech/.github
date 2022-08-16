@@ -1,4 +1,4 @@
-## Hi there, Welcome to iXORTechnology!
+## Hi there, Welcome to iXOR Technology!
 
 <a href="https://ixor.tech"><img src="https://img.shields.io/website?ddown_message=Offline&label=ixor.tech&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fixor.tech" width="auto" height="32"></a>
 
