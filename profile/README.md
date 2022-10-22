@@ -22,7 +22,7 @@ Coming soon!
 
 ## 🎉 Thanks:
 
-Thanks to [`wngamebox`](https://wngamebox.cn), [@JohnsonRan](https://github.com/JohnsonRan) and `🍉 Network` and for providing us network and computing resources
+Thanks to [`wngamebox`](https://wngamebox.cn) & [@JohnsonRan](https://github.com/JohnsonRan) for providing me network and computing resources
 
 **A HUGE thanks to my sponsors down below! You guys will help us to go even further!** 
 
