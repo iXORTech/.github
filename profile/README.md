@@ -2,8 +2,6 @@
 
 <a href="https://ixor.tech"><img src="https://img.shields.io/website?ddown_message=Offline&label=ixor.tech&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fixor.tech" width="auto" height="32"></a>
 
-Minecraft Related Applications & Plugin Development Team, Founded by [@Cubik65536](https://github.com/Cubik65536)
-
 ### 👨🏻‍💻 Members
 
 **[@Cubik65536](https://github.com/Cubik65536)**
