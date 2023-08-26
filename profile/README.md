@@ -6,7 +6,7 @@
 
 **[@Cubik65536](https://github.com/Cubik65536)**
 <br/>
-*Founder* **&** *Software Engineer*
+*Founder* **&** *Lead Software Engineer*
 
 ### 📫 Contact Us
 
