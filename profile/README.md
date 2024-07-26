@@ -1,6 +1,6 @@
 ## Hi there, Welcome to iXOR Technology!
 
-<a href="https://ixor.tech"><img src="https://img.shields.io/website?ddown_message=Offline&label=ixor.tech&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fixor.tech" width="auto" height="32"></a>
+<a href="https://ixor.dev"><img src="https://img.shields.io/website?ddown_message=Offline&label=ixor.dev&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fixor.dev" width="auto" height="32"></a>
 
 ### 👨🏻‍💻 Members
 
@@ -12,7 +12,7 @@
 
 If you want to contact us, the most efficient way is to send emails to us. We will check our inbox every 4 to 5 hours, so you should get our response pretty quickly unless the mail system moves your message to the junk box, which we usually will clear directly after a quick check every week (so it's possible that we can't even see your email before it got deleted).
 
-[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-admin%40ixor.tech-informational?style=for-the-badge)](mailto:admin@ixor.tech)
+[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-admin%40ixor.dev-informational?style=for-the-badge)](mailto:admin@ixor.dev)
 
 ### 🧑🏻‍💻 Our current projects:
 
